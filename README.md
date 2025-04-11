@@ -6,7 +6,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=symfony,php,maven,spring)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
 
 
 <a href="https://github.com/Tibood/Tibood">
