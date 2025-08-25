@@ -9,12 +9,6 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
 
 
-<a href="https://github.com/Tibood/Tibood">
-  <img align="left" width="415" src="https://github-readme-stats-84epz4g6d-satmyx.vercel.app/api?username=Tibood&show_icons=true&theme=dark&locale=fr"/>
-</a>
-<a href="https://github.com/Tibood/Tibood">
-  <img align="right" src="https://github-readme-stats-woad-one-36.vercel.app/api/top-langs/?username=Tibood&layout=compact&theme=dark&locale=fr" />
-</a>
 <!--
 [![My Skills](https://skillicons.dev/icons?i=bitbucket,blender,debian,discord,bots,docker,dotnet,git,github,githubactions,gitlab,jquery,kotlin,laravel,linux,lua,md,nginx,opencv,postgres,postman,powershell,robloxstudio,vscode			)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
